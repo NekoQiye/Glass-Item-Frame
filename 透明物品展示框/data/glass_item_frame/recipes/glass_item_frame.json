@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BXB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:glass_pane"
+    },    
+	"X": {
+      "item": "minecraft:item_frame"
+    }
+  },
+  "result": {
+    "item": "minecraft:item_frame",
+    "nbt": {
+      "EntityTag": {
+        "Invisible": 1b
+      },
+      "display": {
+        "Name": "\"透明物品展示框\""
+      }
+    }
+  }
+}

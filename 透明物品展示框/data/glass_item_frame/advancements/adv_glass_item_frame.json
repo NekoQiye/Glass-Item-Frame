@@ -1,0 +1,13 @@
+{
+    "criteria": {
+      "Power": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "glass_item_frame:glass_item_frame"
+          }
+      }
+    },
+    "rewards": {
+      "function": "glass_item_frame:give_glass_item_frame"
+    }
+  }
