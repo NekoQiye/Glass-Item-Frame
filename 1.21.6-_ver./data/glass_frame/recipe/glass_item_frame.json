@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:glass_pane",
+    "minecraft:item_frame"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:item_frame",
+    "components": {
+      "item_name": {
+        "text": "透明物品展示框"
+      },
+      "rarity": "rare",
+      "entity_data":{
+          "Invisible":1,
+          "id":"minecraft:item_frame"
+        }
+    }
+  }
+}
